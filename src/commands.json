@@ -1,0 +1,7 @@
+{"method":"?","params":""}
+{"method":"led","params":"on"}
+{"method":"led","params":"off"}
+{"method":"kp","params":"5.2"}
+{"method":"ki","params":"1.23"}
+{"method":"kd","params":"4.21"}
+{"method":"read","params":""}
